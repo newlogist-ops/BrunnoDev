@@ -1,19 +1,3 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm Bruno</h1>
-      <ul>
-        <li>🔐 Security-focused developer</li>
-        <li>⚙️ Web & systems</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="assets/card.png" />
-    </td>
-  </tr>
-</table>
-
-# BrunnoDev
 # Opa! Eu sou o Brunno 👋
 
 Aprendendo, desenvolvendo e explorando falhas, levando projetos ao limite.  
@@ -28,8 +12,6 @@ O foco é entender como tudo realmente funciona. 🔐💻
 - 🧠 Curioso por lógica, fluxo, falhas, como evitar (ou causar) erros kk  
 - 🎨 Também atuo com **designer**, realizando edições de **imagens e vídeos** quando precisa  
 - 🛠️ Gosto de resolver problemas e eliminar processos desnecessários
-
-Quanto mais simples, menos dor de cabeça depois.
 
 ---
 
@@ -64,7 +46,6 @@ Quanto mais simples, menos dor de cabeça depois.
 
 > Uso para edição de imagem, vídeo e ajustes visuais quando o projeto pede.
 
-
 ---
 
 ## 🎯 Objetivo
@@ -76,11 +57,6 @@ Criar sistemas simples, funcionais e difíceis de quebrar.
 ## 📍 Onde me encontrar
 
 - 🌐 Site: —
-- 📸 Instagram: —
+[![Instagram](https://img.shields.io/badge/Instagram-_4bdream-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_4bdream/)
 - ▶️ YouTube: —
 - 💼 LinkedIn: —
-(em construção, como quase tudo aqui)
-
----
-
-“Entender antes costuma economizar tempo depois.”
